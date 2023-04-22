@@ -1,5 +1,5 @@
 # Sentiment Analysis using NLTK and RNN on Amazon Reviews Dataset
-This is a sentiment analysis project that utilizes the Natural Language Toolkit (NLTK) and a Recurrent Neural Network (RNN) to classify the sentiment of Amazon reviews dataset. The dataset contains reviews from various categories such as books, electronics, etc.
+This is a sentiment analysis project that utilizes the Natural Language Toolkit (NLTK) and a Recurrent Neural Network (RNN) to classify the sentiment of Amazon reviews dataset. The dataset contains reviews from various categories such as books, electronics, etc.The link to the dataset https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews 
 
 Getting Started
 Install the necessary packages by running the following command:
